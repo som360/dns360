@@ -8,7 +8,7 @@
 !
 
 127.0.0.1 cm.bilibili.com
-||*hengantu.com^||*hengantu.com^
+||*hengantu.com^
 ||*bjmantis.net^
 ||*scrm-common.oss-cn-hangzhou.aliyuncs.com^
 ||adobe.io^
