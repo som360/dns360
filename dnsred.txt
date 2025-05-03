@@ -1,0 +1,15 @@
+!
+! Title: CHN: ad DNS
+! Description: List for blocking ads in the Chinese region
+! Version: 1.0.19.73
+! Homepage: https://github.com/som360/dns360
+! Last modified: 2025-05-03T00:31:02.293Z
+!
+!
+@@||h5.mse.360.cn^
+@@||sofire.baidu.com^
+@@||_psis._udp.jpush.cn^
+@@||zhan.vivo.com.cn^
+@@||prt-stsdk.vivo.com.cn^
+@@||ort-stsdk.vivo.com.cn^
+@@||api.netart.cn^
