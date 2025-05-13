@@ -14,3 +14,5 @@
 @@||prt-stsdk.vivo.com.cn^
 @@||ort-stsdk.vivo.com.cn^
 @@||api.netart.cn^
+@@||tianqi.2345.com^
+@@||waptianqi.2345.com^
