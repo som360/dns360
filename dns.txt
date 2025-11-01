@@ -13,3 +13,43 @@
 ||*scrm-common.oss-cn-hangzhou.aliyuncs.com^
 ||adobe.io^
 ||adobestats.io^
+# 创维酷开电视
+127.0.0.1 api.app.skysrt.com
+127.0.0.1 api.upgrade.skysrt.com
+127.0.0.1 update01.skyworth-cloud.com
+127.0.0.1 update01.skyworth-cloud.com.wswebpic.com
+127.0.0.1 hoisin.coocaatv.com
+127.0.0.1 res.hoisin.coocaatv.com
+127.0.0.1 log.skysrt.com
+127.0.0.1 apk.sky.fs.skysrt.com
+127.0.0.1 api.device.skysrt.com
+127.0.0.1 push.skysrt.com
+127.0.0.1 umengacs.m.taobao.com
+127.0.0.1 amdcopen.m.taobao.com
+127.0.0.1 irs01.com
+127.0.0.1 s.jpush.cn
+127.0.0.1 alog.umeng.com
+127.0.0.1 uop.umeng.com
+127.0.0.1 sis.jpush.io
+127.0.0.1 p.tencentmind.com
+127.0.0.1 tracker.appadhoc.com
+127.0.0.1 admaster.com.cn
+127.0.0.1 vqq.admaster.com.cn
+127.0.0.1 taps.net
+127.0.0.1 stats.jpush.cn
+127.0.0.1 miaozhen.com
+127.0.0.1 ad.3.cn
+127.0.0.1 api.app.skysrt.com
+127.0.0.1 api.upgrade.skysrt.com  
+127.0.0.1 update01.skyworth-cloud.com
+127.0.0.1 log.skysrt.com
+127.0.0.1 apk.sky.fs.skysrt.com
+127.0.0.1 api.device.skysrt.com
+127.0.0.1 pl.cp31.OTT.cibntv.net
+127.0.0.1 v-play.coocaa.wasu.tv
+127.0.0.1 hoisin.coocaatv.com
+127.0.0.1 pfg.coocaa.wasu.tv
+127.0.0.1 data-hoisin.coocaa.wasu.tv
+127.0.0.1 api-upgrade.coocaa.wasu.tv
+127.0.0.1 193.112.97.61
+127.0.0.1 175.178.207.92
